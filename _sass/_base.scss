@@ -1,0 +1,114 @@
+/**
+ * Reset some basic elements
+ */
+@import 'https://fonts.googleapis.com/css?family=Dynalight';
+@import 'https://fonts.googleapis.com/css?family=Lato:400';
+
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', 'Helvetica Neue' ,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba
+}
+
+.hero {
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+.hero-welcome {
+    background-image: url(/images/il-castello-del-trebbio.jpg);
+
+    img {
+        width: 80vw;
+        max-width: 40em;
+        margin: 0 auto;
+        margin-top: 25vh;
+        display: block;
+    }
+
+    h1 {
+        padding: 1em 0;
+        font-family: 'Dynalight', cursive, 'Snell Roundhand', Times, serif;
+        text-align: center;
+        font-size: 8em;
+        color: #BA8D52;
+        font-weight: normal;
+    }
+}
+
+.hero-title {
+    height: auto;
+    padding: 8em 0;
+
+    h2 {
+        font-family: 'Dynalight', cursive, 'Snell Roundhand', Times, serif;
+        text-align: center;
+        font-size: 6em;
+        color: #BA8D52;
+        font-weight: normal;
+    }
+}
+
+.hero-title-when {
+    background-image: url(/images/wedding-time.jpg);
+}
+.hero-title-where {
+    background-image: url(/images/palazzo-vecchio.jpg);
+}
+.hero-title-inclusive {
+    background-image: url(/images/dinner.jpg);
+    text-shadow: 2px 2px #505050;
+}
+.hero-title-exclusive {
+    background-image: url(/images/flight.jpg);
+    text-shadow: 2px 2px #505050;
+}
+.hero-title-rsvp {
+    background-image: url(/images/il-castello-del-trebbio2.jpg);
+}
+.hero-title-news {
+    background-image: url(/images/wedding.jpg);
+}
+
+.hero-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 40px;
+    background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAH0AAAABQBAMAAABmn157AAAAD1BMVEX///////////////////+Rd1MVAAAABHRSTlMA9UFAnyLodQAAAvBJREFUeF7t2dEJAgEQQ8FDOwgWoCVYgmD/NVmEJ4kwC1PAfoZ3vB0ArHrdj1Pvens7AFhloAPAsByn3vOLBwAAAx0AJHQBHQAMdACgKQsBHQAw0AFAQhfQAcBABwD6shDQAQADHQAkdAEdAAx0AKAvCwEdADDQAUBCF9ABwEAHAPqyENABAAMdACR0AR0ADHQAoC8LAR0AMNABQEIX0AHAQAcA+rIQ0AEAAx0AJHQBHQAMdACgLwsBHQAw0AFAQhfQAcBABwD6shDQAQADHQAkdAEdAAx0AKAvCwEdADDQAUBCF9ABwEAHAPqyENABAAMdACR0AR0ADHQAoC8LAR0AMNABQEIX0AHAQAcA+rIQ0AEAAx0AJHQBHQAMdACgLwsBHQAw0AFAQhfQAcBABwD6shDQAQADHQAkdAEdAAx0AKAvCwEdADDQAUBCF9ABwEAHAPqyENABAAMdACR0AR0ADHQAoC9jAR0AMNABQELfD+gAgIEOABL6o/4AAGCgA4CEfhHQAcBABwB+JgsBHQAw0AFAQhfQAcBABwD6shDQAQADHQAkdAEdAAx0AKAvCwEdADDQAUBCF9ABwEAHAPqyENABAAMdACR0AR0ADHQAoC8LAR0AMNABQEIX0AHAQAcA+rIQ0AEAAx0AJHQBHQAMdACgLwsBHQAw0AFAQhfQAcBABwD6shDQAQADHQAkdAEdAAx0AKAvCwEdADDQAUBCF9ABwEAHAPqyENABAAMdACR0AR0ADHQAoC8LAR0AMNABQEIX0AHAQAcA+rIQ0AEAAx0AJHQBHQAMdACgLwsBHQAw0AFAQhfQAcBABwD6shDQAQADHQAkdAEdAAx0AKAvCwEdADDQAUBCF9ABwEAHAPqyENABAAMdACR0AR0ADHQAoC8LAR0AMNABQEIX0AHAQAcA+rIQ0AEAAx0AJHQBHQAMdACgLwsBHQAw0AFAQhfQAcBABwD6shDQAQADHQAkdAEdAAx0AKAv/x/QAcB9ADPzunwNP5LGAAAAAElFTkSuQmCC);
+    background-position: center;
+    background-size: 4000px 40px;
+    // border-bottom: 1em solid white;
+}
+
+.text-block {
+    padding: 8em 1em;
+}
+
+.text-block-inner{
+    max-width: 40em;
+    margin: 0 auto;
+}
+
+p {
+    margin-bottom: 1em;
+    line-height: 1.4;
+
+    iframe {
+        display: block;
+        width: 100%;
+        height: 200vh;
+        max-height: 40em;
+    }
+}
