@@ -3,10 +3,7 @@ layout: default
 ---
 
 <div class="hero hero-welcome">
-  <h1>
-    Receptie
-  </h1>
-  <div class="hero-bar"></div>
+  <image src="/images/save-the-date-logo.png"></image>
 </div>
 
 <div class="text-block">
@@ -15,7 +12,7 @@ layout: default
       Op 13 September 2017 gaan Michèlle & Etienne elkaar het "ja"-woord geven in Florence.
     </p>
     <p>
-      Graag nodigen wij jullie uit om dit te vieren tijdens onze receptie.
+      Graag nodigen wij jullie uit om dit te vieren tijdens onze receptie borrel.
     </p>
   </div>
 </div>
@@ -29,7 +26,7 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      De receptie zal, onder voorbehoud, plaats vinden op zaterdag 23 september, in de na-middag/avond
+      De receptie borrel zal hoogstwaarschijnlijk plaats vinden op <em>zaterdag 23 september</em>.
     </p>
   </div>
 </div>
