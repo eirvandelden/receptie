@@ -38,7 +38,7 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      De receptie borrel zal hoogstwaarschijnlijk plaats vinden op <em>zaterdag 23 september</em>.
+      De datum van de receptie borrel staat nog niet vast, maar zal hoogstwaarschijnlijk plaats vinden op <em>zaterdag 23 september</em>.
     </p>
   </div>
 </div>
@@ -83,7 +83,8 @@ layout: default
       De bruiloft zelf vind plaats op 13 september in Florence, Italie.
     </p>
     <p>
-      Wil jij graag óók naar Italië komen? Voor informatie over wat wij wel of niet voor je kunnen betekenen, én om door te geven dat je naar Italië komt, kijk je op <a href="http://italie.vandelden.family/">italie.vandelden.family</a>
+      Wil jij graag óók naar Italië komen? Wat leuk! Natuurlijk mag je er bij zijn.</p>
+    <p>Voor informatie over wat wij wel en niet voor je kunnen betekenen, én om door te geven dat je naar Italië komt, kijk je op <a href="http://italie.vandelden.family/">italie.vandelden.family</a>
     </p>
   </div>
 </div>
@@ -96,9 +97,11 @@ layout: default
 
 <div class="text-block">
   <div class="text-block-inner">
-    <h2>TODO</h2>
     <p>
-      De website met al het nieuws is online!
+      Hier vind je alle nieuwe berichten rondom de receptie. Tevens krijg je een mailtje als er nieuws is.
+    </p>
+    <p>
+      De website voor de receptie is online!
     </p>
   </div>
 </div>
