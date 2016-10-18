@@ -13,7 +13,6 @@ dl, dd, ol, ul, figure {
 
 body {
     font-family: 'Lato', 'Helvetica Neue' ,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    // background-color: rgba
 }
 
 .hero {
@@ -27,6 +26,7 @@ body {
 
 .hero-welcome {
     background-image: url(/images/fireworks.jpg);
+    height: 95vh;
 
     img {
         width: 80vw;
@@ -79,18 +79,6 @@ body {
 .hero-title-news {
     background-image: url(/images/wedding.jpg);
     text-shadow: 2px 2px #505050;
-}
-
-.hero-bar {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 40px;
-    background:url(/images/herobar-dark.png);
-    background-position: center;
-    background-size: 4000px 40px;
-    // border-bottom: 1em solid white;
 }
 
 .text-block {
