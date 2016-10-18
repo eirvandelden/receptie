@@ -9,6 +9,18 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
+      Michèlle en Etienne hebben eerst lang moeten zoeken voordat ze elkaar gevonden hebben. 25 jaar hebben ze zonder elkaar moeten doen en inmiddels kunnen ze niet meer zonder elkaar.
+    </p>
+    <p>
+      Michèlle had besloten even helemaal niks meer te willen en Etienne had na veel verwoede pogingen eigenlijk ook al de hoop opgegeven. Maar ze besloten allebei de liefde nog een laatste kans te geven en schreven zich in op een datingswebsite, pepper. Etienne stuurde Michèlle een berichtje en omdat Michèlle niet kon antwoorden zocht ze Etienne op via Facebook. Vele gesprekken later kwam er een date en na die dag waren ze onafscheidelijk.
+    </p>
+    <p>
+      Na een paar maanden woonden ze al samen en eigenlijk wilden ze stiekem graag trouwen. Etienne is meer dan een half jaar bezig geweest met een huwelijksaanzoek plannen maar kwam dan ook met een fantastisch aanzoek.
+    </p>
+    <p>
+      Op 5 mei 2016 vroeg Etienne Michèlle ten huwelijk en "she said YES". Omdat Italië het land van het zalig eten, het genieten en la dolce vita is trouwen ze graag in “La bella italia”.
+    </p>
+    <p>
       Op 13 September 2017 gaan Michèlle & Etienne elkaar het "ja"-woord geven in Florence.
     </p>
     <p>
@@ -69,8 +81,9 @@ layout: default
   <div class="text-block-inner">
     <p>
       De bruiloft zelf vind plaats op 13 september in Florence, Italie.
-
-      Voor meer informatie over de bruiloft in Italië en om door te geven dat je óók naar Italië komt, kijk dan op <a>italie.vandelden.family</a>
+    </p>
+    <p>
+      Wil jij graag óók naar Italië komen? Voor informatie over wat wij wel of niet voor je kunnen betekenen, én om door te geven dat je naar Italië komt, kijk je op <a href="http://italie.vandelden.family/">italie.vandelden.family</a>
     </p>
   </div>
 </div>
