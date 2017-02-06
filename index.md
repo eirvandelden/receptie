@@ -38,7 +38,7 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      De datum van de receptie borrel staat nog niet vast, maar zal hoogstwaarschijnlijk plaats vinden op <em>zaterdag 23 september</em>.
+      De receptie is op zondag 24 september, van 18:00 tot 22:00.
     </p>
   </div>
 </div>
@@ -52,7 +52,10 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      De lokatie wordt later aangekondigd. Houd er rekening mee dat het in omgeving Eindhoven zal zijn.
+      De receptie is in "Villa de Vierjaargetijden" in Tilburg.
+    </p>
+    <p>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2480.4929786235375!2d5.078030616273586!3d51.55919557964359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6be30e78237fd%3A0x36db14f197f71e5f!2sVilla+de+Vier+Jaargetijden!5e0!3m2!1sen!2snl!4v1486379464568" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
     </p>
   </div>
 </div>
@@ -83,7 +86,8 @@ layout: default
       De bruiloft zelf vind plaats op 13 september in Florence, Italie.
     </p>
     <p>
-      Wil jij graag óók naar Italië komen? Wat leuk! Natuurlijk mag je er bij zijn.</p>
+      Wil jij graag naar de ceremonie in Italië komen? Wat leuk! Natuurlijk mag je er bij zijn.
+    </p>
     <p>Voor informatie over wat wij wel en niet voor je kunnen betekenen, én om door te geven dat je naar Italië komt, kijk je op <a href="http://italie.vandelden.family/">italie.vandelden.family</a>
     </p>
   </div>
@@ -101,7 +105,10 @@ layout: default
       Hier vind je alle nieuwe berichten rondom de receptie. Tevens krijg je een mailtje als er nieuws is.
     </p>
     <p>
-      De website voor de receptie is online!
+      <strong>04-02-2017</strong> De datum en locatie zijn bekend! De receptie zal plaats vinden op zondag 24 september in Villa de Vierjaargetijden in Tilburg.
+    </p>
+    <p>
+      <strong>01-02-2017</strong> De website voor de receptie is online!
     </p>
   </div>
 </div>
