@@ -69,7 +69,7 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      <iframe src="https://docs.google.com/a/kabisa.nl/forms/d/e/1FAIpQLSc5Y4HSL_THu4Elv5lHIUSredUcP33_l_AzMR3zcQRtc5vgQw/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScc952Hp4hdWiwg5Ungn9UW_2bfvl33blakt0CC-8RASQex6w/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Bezig met laden...</iframe>
     </p>
   </div>
 </div>
