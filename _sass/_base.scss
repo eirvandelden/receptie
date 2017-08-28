@@ -80,6 +80,10 @@ body {
     background-image: url(/images/wedding.jpg);
     text-shadow: 2px 2px #505050;
 }
+.hero-title-party {
+    background-image: url(/images/party.jpg);
+    text-shadow: 2px 2px #505050;
+}
 
 .text-block {
     background-image: url(/images/stars.jpg);
@@ -102,4 +106,39 @@ p {
         height: 200vh;
         max-height: 40em;
     }
+
+    a {
+        color: white;
+    }
+}
+
+#note {
+    position: absolute;
+    z-index: 101;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #0DFF89;
+    text-align: center;
+    line-height: 2.5;
+    overflow: hidden;
+    -webkit-box-shadow: 0 0 5px black;
+    -moz-box-shadow:    0 0 5px black;
+    box-shadow:         0 0 5px black;
+}
+
+@-webkit-keyframes slideDown {
+    0%, 100% { -webkit-transform: translateY(-50px); }
+    10%, 90% { -webkit-transform: translateY(0px); }
+}
+@-moz-keyframes slideDown {
+    0%, 100% { -moz-transform: translateY(-50px); }
+    10%, 90% { -moz-transform: translateY(0px); }
+}
+
+.cssanimations.csstransforms #note {
+    -webkit-transform: translateY(-50px);
+    -webkit-animation: slideDown 2.5s 1.0s 1 ease forwards;
+    -moz-transform:    translateY(-50px);
+    -moz-animation:    slideDown 2.5s 1.0s 1 ease forwards;
 }
